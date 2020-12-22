@@ -1,0 +1,227 @@
+[
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/386\/64k.mp3",
+    "desc": "FM106.1",
+    "id": 1,
+    "img_url": "",
+    "name": "CNR中国之声",
+    "radio_id": "1"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/387\/64k.mp3",
+    "desc": "FM96.6",
+    "id": 2,
+    "img_url": "",
+    "name": "CNR经济之声",
+    "radio_id": "2"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/390\/64k.mp3",
+    "desc": "AM549",
+    "id": 3,
+    "img_url": "",
+    "name": "CNR中华之声",
+    "radio_id": "5"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/391\/64k.mp3",
+    "desc": "AM684",
+    "id": 4,
+    "img_url": "",
+    "name": "CNR神州之声",
+    "radio_id": "6"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/392\/64k.mp3",
+    "desc": "FM104.9",
+    "id": 5,
+    "img_url": "",
+    "name": "CNR华夏之声",
+    "radio_id": "7"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/388\/64k.mp3",
+    "desc": "Music Radio",
+    "id": 6,
+    "img_url": "",
+    "name": "CNR音乐之声",
+    "radio_id": "3"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/395\/64k.mp3",
+    "desc": "FM106.6",
+    "id": 7,
+    "img_url": "",
+    "name": "CNR文艺之声",
+    "radio_id": "10"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/389\/64k.mp3",
+    "desc": "FM101.8",
+    "id": 8,
+    "img_url": "",
+    "name": "CNR经典音乐广播",
+    "radio_id": "10_2"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/398\/64k.mp3",
+    "desc": "AM747",
+    "id": 9,
+    "img_url": "",
+    "name": "CNR阅读之声",
+    "radio_id": "14"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/4986\/64k.mp3",
+    "desc": "FM87.8",
+    "id": 10,
+    "img_url": "",
+    "name": "CNR香港之声",
+    "radio_id": "8"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/394\/64k.mp3",
+    "desc": "AM1143",
+    "id": 11,
+    "img_url": "",
+    "name": "CNR民族之声",
+    "radio_id": "9"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/396\/64k.mp3",
+    "desc": "AM1053",
+    "id": 12,
+    "img_url": "",
+    "name": "CNR老年之声",
+    "radio_id": "11"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/4985\/64k.mp3",
+    "desc": "FM99.6",
+    "id": 13,
+    "img_url": "",
+    "name": "CNR中国交通广播",
+    "radio_id": "15"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/5039\/64k.mp3",
+    "desc": "AM720",
+    "id": 14,
+    "img_url": "",
+    "name": "CNR中国乡村之声",
+    "radio_id": "16"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/397\/64k.mp3",
+    "desc": "",
+    "id": 15,
+    "img_url": "",
+    "name": "CNR藏语广播",
+    "radio_id": "12"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/4988\/64k.mp3",
+    "desc": "",
+    "id": 16,
+    "img_url": "",
+    "name": "CNR维吾尔语广播",
+    "radio_id": "13"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/5022499\/64k.mp3",
+    "desc": "",
+    "id": 17,
+    "img_url": "",
+    "name": "CNR哈萨克语广播",
+    "radio_id": "17"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/1005\/64k.mp3",
+    "desc": "",
+    "id": 18,
+    "img_url": "",
+    "name": "CRI环球资讯",
+    "radio_id": "17_2"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/1007\/64k.mp3",
+    "desc": "",
+    "id": 19,
+    "img_url": "",
+    "name": "CRI HIT FM",
+    "radio_id": "17_3"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/4584\/64k.mp3",
+    "desc": "",
+    "id": 20,
+    "img_url": "",
+    "name": "China Plus Radio",
+    "radio_id": "17_4"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/4995\/64k.mp3",
+    "desc": "",
+    "id": 21,
+    "img_url": "",
+    "name": "CRI中文环球广播",
+    "radio_id": "17_5"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/20402\/64k.mp3",
+    "desc": "",
+    "id": 22,
+    "img_url": "",
+    "name": "CRI南海之声",
+    "radio_id": "17_8"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/1002\/64k.mp3",
+    "desc": "",
+    "id": 23,
+    "img_url": "",
+    "name": "CRI闽南之音",
+    "radio_id": "17_9"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/1006\/64k.mp3",
+    "desc": "",
+    "id": 24,
+    "img_url": "",
+    "name": "轻松调频EZFM",
+    "radio_id": "17_6"
+  },
+  {
+    "region": "中央",
+    "url": "http:\/\/lhttp.qingting.fm\/live\/392\/64k.mp3",
+    "desc": "",
+    "id": 25,
+    "img_url": "",
+    "name": "大湾区之声",
+    "radio_id": "17_7"
+  }
+]
