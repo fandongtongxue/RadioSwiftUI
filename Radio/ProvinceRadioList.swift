@@ -15,7 +15,7 @@ struct ProvinceRadioList: View {
                     ProvinceRadioRow(radio: radio)
                 }
             }
-            .navigationTitle("Radio")
+            .navigationTitle("省市电台")
         }
     }
 }

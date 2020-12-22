@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -26,6 +26,7 @@
 		04D16A522591F17800EF0465 /* ProvinceRadioList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D16A502591F17800EF0465 /* ProvinceRadioList.swift */; };
 		04D16A572591F25100EF0465 /* NetRadioRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D16A552591F25100EF0465 /* NetRadioRow.swift */; };
 		04D16A582591F25100EF0465 /* ProvinceRadioRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D16A562591F25100EF0465 /* ProvinceRadioRow.swift */; };
+		8415CD33259215C200C92171 /* FDMediaKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8415CD32259215C200C92171 /* FDMediaKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8415CD33259215C200C92171 /* FDMediaKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,6 +132,9 @@
 			dependencies = (
 			);
 			name = Radio;
+			packageProductDependencies = (
+				8415CD32259215C200C92171 /* FDMediaKit */,
+			);
 			productName = Radio;
 			productReference = 04D169B22591861F00EF0465 /* Radio.app */;
 			productType = "com.apple.product-type.application";
@@ -157,6 +162,9 @@
 				Base,
 			);
 			mainGroup = 04D169A92591861E00EF0465;
+			packageReferences = (
+				8415CD31259215C100C92171 /* XCRemoteSwiftPackageReference "FDMediaKit" */,
+			);
 			productRefGroup = 04D169B32591861F00EF0465 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -388,6 +396,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8415CD31259215C100C92171 /* XCRemoteSwiftPackageReference "FDMediaKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/fandongtongxue/FDMediaKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8415CD32259215C200C92171 /* FDMediaKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8415CD31259215C100C92171 /* XCRemoteSwiftPackageReference "FDMediaKit" */;
+			productName = FDMediaKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 04D169AA2591861E00EF0465 /* Project object */;
 }

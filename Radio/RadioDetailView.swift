@@ -6,11 +6,12 @@
 //
 
 import SwiftUI
+import FDMediaKit
 
 struct RadioDetailView: View {
     var radio : Radio
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text(radio.name)
     }
 }
 

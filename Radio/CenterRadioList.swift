@@ -15,7 +15,7 @@ struct CenterRadioList: View {
                     CenterRadioRow(radio: radio)
                 }
             }
-            .navigationTitle("Radio")
+            .navigationTitle("中央电台")
         }
     }
 }

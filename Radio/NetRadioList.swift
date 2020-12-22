@@ -15,7 +15,7 @@ struct NetRadioList: View {
                     NetRadioRow(radio: radio)
                 }
             }
-            .navigationTitle("Radio")
+            .navigationTitle("网络电台")
         }
     }
 }
