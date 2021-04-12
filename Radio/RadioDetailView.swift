@@ -11,8 +11,19 @@ import FDMediaKit
 struct RadioDetailView: View {
     var radio : Radio
     var body: some View {
-        Text(radio.name)
+        VStack{
+            Text(radio.name)
+            Button(action: {
+                play(radio.url)
+            }) {
+                Text("开始播放")
+            }.padding(10)
+        }.navigationTitle(radio.name)
     }
+}
+
+func play(_ url : String){
+    FDAudioPlayerManager.defaultManager.play(url: url)
 }
 
 struct RadioDetailView_Previews: PreviewProvider {
