@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FDMediaKit",
+        "repositoryURL": "https://github.com/fandongtongxue/FDMediaKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "2c56c1b606d8b69316ddf9cddcd5b3c330681900",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -13,17 +13,12 @@ struct RadioDetailView: View {
     var body: some View {
         VStack{
             Text(radio.name)
-            Button(action: {
-                play(radio.url)
-            }) {
-                Text("开始播放")
-            }.padding(10)
-        }.navigationTitle(radio.name)
+        }.navigationTitle(radio.name).onAppear(perform: {
+            FDAudioPlayerManager.defaultManager.play(url: radio.url)
+        }).onDisappear(perform: {
+            FDAudioPlayerManager.defaultManager.pause()
+        })
     }
-}
-
-func play(_ url : String){
-    FDAudioPlayerManager.defaultManager.play(url: url)
 }
 
 struct RadioDetailView_Previews: PreviewProvider {
