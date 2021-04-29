@@ -15,8 +15,10 @@ struct RadioDetailView: View {
             Text(radio.name)
         }.navigationTitle(radio.name).onAppear(perform: {
             FDAudioPlayerManager.defaultManager.play(url: radio.url)
+            UIApplication.shared.isIdleTimerDisabled = true
         }).onDisappear(perform: {
             FDAudioPlayerManager.defaultManager.pause()
+            UIApplication.shared.isIdleTimerDisabled = false
         })
     }
 }
